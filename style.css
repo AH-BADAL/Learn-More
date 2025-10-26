@@ -2,7 +2,6 @@
         font-family: Arial;
         margin: 0;
         scroll-behavior: smooth;
-        /* smooth scroll animation */
       }
   
       nav {
@@ -47,5 +46,3 @@
         background: #ff9800;
         color: white;
       }
-
-  
